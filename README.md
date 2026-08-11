@@ -163,9 +163,6 @@ class AIEngineer:
 <img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-<a href="www.linkedin.com/in/joseph-imobio-ab95052a1">
-<img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
 
 <a href="mailto:josephimobio2@gmail.com">
 <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
