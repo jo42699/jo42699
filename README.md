@@ -17,10 +17,11 @@
 ```python
 class AIEngineer:
     def __init__(self):
-        self.love = "Building things that think ⚡"
+        self.love = "Building things"
         self.focus = ["AI", "ML", "LLMs", "Systems"]
-        self.languages = ["Python", "C++", "TypeScript", "Go"]
-        self.motto = "Build → Break → Learn → Ship 🚀"
+        self.languages = ["Python", "C#", "TypeScript", "C"]
+        self.motto = "OHETS"
+        self.HOBBIES = ["Piano, drawing, chess"]
 ```
 
 ---
@@ -158,7 +159,7 @@ class AIEngineer:
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/jo42699">
 <img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
@@ -170,7 +171,7 @@ class AIEngineer:
 <img src="https://img.shields.io/badge/X-00F7FF?style=for-the-badge&logo=x&logoColor=black"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:josephimobio2@gmail.com">
 <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
