@@ -163,12 +163,8 @@ class AIEngineer:
 <img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="www.linkedin.com/in/joseph-imobio-ab95052a1">
 <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-
-<a href="https://x.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/X-00F7FF?style=for-the-badge&logo=x&logoColor=black"/>
 </a>
 
 <a href="mailto:josephimobio2@gmail.com">
