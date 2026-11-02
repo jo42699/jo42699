@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Software+Engineer;Python+%7C+Machine+Learning+%7C+LLMs;Building+Intelligent+Systems+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+Software+Engineer;Python+%7C+Machine+Learning+%7C+LLMs;Building+Intelligent+Systems+%E2%9A%A1" />
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,rust,go,typescript,javascript,bash&theme=dark" />
 
